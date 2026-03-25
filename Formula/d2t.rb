@@ -1,9 +1,9 @@
 class D2t < Formula
   desc "Diff-driven Android ViewModel test generation CLI"
   homepage "https://github.com/gay00ung/diff2test-android"
-  url "https://github.com/gay00ung/diff2test-android/releases/download/v0.2.1/d2t.zip"
-  sha256 "4c6a5cef25d1093a0d90d0d98c109655aa4596d527e5f3ff68291ed78eae7b25"
-  version "0.2.1"
+  url "https://github.com/gay00ung/diff2test-android/releases/download/v0.3.0/d2t.zip"
+  sha256 "64963c435d80180250d3ab8673911e77f1cba0888d84a6e13ca3a0949261acfb"
+  version "0.3.0"
 
   depends_on "openjdk@17"
 
